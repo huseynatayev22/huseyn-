@@ -1,0 +1,335 @@
+#header {
+  color: white;
+  background-image: url(../foto/slide6.jpg);
+  height: 657px;
+  background-size: cover;
+}
+
+#header .daire {
+  border-radius: 90%;
+  font-size: 25px;
+  margin-top: 80vh;
+  z-index: 10;
+  margin-left: -99vh;
+}
+
+#header .text1 {
+  margin-top: 50vh;
+  margin-left: -160px;
+}
+
+#header .text1 button {
+  background: transparent;
+  margin-top: 20px;
+  border: none;
+  color: red;
+  cursor: pointer;
+}
+
+#header .text1 p {
+  width: 45vh;
+  margin-top: 20px;
+}
+
+#header .text {
+  -webkit-transform: rotate(-90deg);
+          transform: rotate(-90deg);
+  margin-top: 30vh;
+  margin-left: 40px;
+}
+
+#header .text i {
+  margin-left: 8px;
+}
+
+#header .text span {
+  margin-left: 15px;
+}
+
+#header .icon i {
+  margin-top: 23px;
+}
+
+#header .logo {
+  margin-left: 45vh;
+  margin-top: 13px;
+}
+
+#header .logo h1 {
+  font-size: 23px;
+}
+
+#header .menu .menu2 {
+  margin-left: 25vh;
+  margin-top: 15px;
+}
+
+#header .menu .menu2 li {
+  margin-left: 30px;
+}
+
+#header .icons {
+  margin-left: 85vh;
+  margin-top: 15px;
+}
+
+#header .icons i {
+  margin-left: 20px;
+}
+
+#header2 {
+  background: black;
+}
+
+#header2 .text98 {
+  color: white;
+  margin-left: 90vh;
+  width: 20vh;
+  margin-top: -18vh;
+}
+
+#header2 .text99 {
+  margin-left: 80vh;
+  font-size: 55px;
+  margin-top: -30vh;
+}
+
+#header2 .text99 span {
+  color: #a53e3e;
+  margin-left: 9vh;
+}
+
+#header2 .black {
+  margin-left: 85vh;
+  margin-top: -70vh;
+  color: white;
+}
+
+#header2 .black h6 {
+  color: red;
+}
+
+#header2 .img {
+  margin-top: 99px;
+}
+
+#header2 .img img {
+  border-radius: 50%;
+}
+
+#header2 .text97 {
+  color: white;
+  width: 5vh;
+  margin-top: -18vh;
+  margin-left: 40px;
+}
+
+#header2 .text96 {
+  color: white;
+  width: 5vh;
+  margin-left: 120px;
+  margin-top: -17vh;
+}
+
+#header2 .text95 {
+  margin-top: -7vh;
+}
+
+#header2 .text95 i {
+  color: red;
+  font-size: 10px;
+}
+
+#header2 .text95 i:hover {
+  color: white;
+}
+
+#header2 .text95 button {
+  color: red;
+  border: none;
+  font-size: 15px;
+  margin-left: -55vh;
+  background: transparent;
+}
+
+#header2 .text95 button:hover {
+  color: white;
+}
+
+#header3 {
+  background: black;
+}
+
+#header3 .buton {
+  margin-left: 65vh;
+  margin-top: 40px;
+}
+
+#header3 .buton button {
+  background: transparent;
+  color: red;
+  border: none;
+}
+
+#header3 .buton button:hover {
+  color: white;
+  -webkit-transition: .5s;
+  transition: .5s;
+}
+
+#header3 .img7 {
+  margin-top: 60px;
+  margin-left: -15px;
+}
+
+#header3 .img7 .img4 {
+  width: 85%;
+}
+
+#header3 .img7 img {
+  margin-left: 39px;
+}
+
+#header3 .img8 {
+  margin-left: -14px;
+  margin-top: -39vh;
+}
+
+#header3 .img8 img {
+  margin-left: 39px;
+}
+
+#header3 .img9 .img5 {
+  height: 550px;
+  width: 85%;
+}
+
+#header3 .img9 img {
+  margin-left: 40px;
+}
+
+#header3 h1 {
+  color: white;
+}
+
+#header3 .box {
+  margin-left: 65vh;
+  margin-top: 10vh;
+}
+
+#header3 .box h2 {
+  margin-left: 15px;
+  margin-top: 8px;
+  color: #ee5757;
+}
+
+#header3 .menu9 {
+  color: white;
+  margin-top: 100px;
+  margin-left: 32vh;
+}
+
+#header3 .menu9 li {
+  cursor: pointer;
+  margin-left: 35px;
+}
+
+#header5 {
+  background: black;
+}
+
+#header5 .plus {
+  color: red;
+  margin-top: -18vh;
+  margin-left: -42vh;
+}
+
+#header5 .plus i {
+  margin-left: 62vh;
+}
+
+#header5 .button9 {
+  margin-left: -40vh;
+  margin-top: -62vh;
+}
+
+#header5 .button9 button {
+  margin-left: 53vh;
+  color: red;
+  background: transparent;
+  border: none;
+}
+
+#header5 .button9 button:hover {
+  color: white;
+}
+
+#header5 .ttext {
+  color: white;
+  margin-left: -45vh;
+  margin-top: -73vh;
+}
+
+#header5 .ttext h1 {
+  margin-left: 58vh;
+}
+
+#header5 .box2 {
+  color: white;
+  margin-left: -35vh;
+  margin-top: -79vh;
+}
+
+#header5 .box2 span {
+  margin-left: 45vh;
+}
+
+#header5 .box1 {
+  margin-left: -16vh;
+  margin-top: 10vh;
+}
+
+#header5 .box1 img {
+  margin-left: 35px;
+}
+
+#header6 {
+  background: black;
+}
+
+#header6 .follow1 {
+  margin-top: 30px;
+  margin-left: 69vh;
+  color: white;
+}
+
+#header6 .follow1 span {
+  margin-left: 39px;
+}
+
+#header6 .follow {
+  margin-top: 10px;
+}
+
+#header7 {
+  margin-left: 20vh;
+  margin-top: 10vh;
+}
+
+#header7 .end7 {
+  margin-left: 25px;
+  margin-top: 13px;
+}
+
+#header7 .end8 img {
+  margin-top: 15px;
+}
+
+#header7 .end9 p {
+  margin-top: 15px;
+}
+
+#header7 .end9 {
+  width: 55vh;
+}
+/*# sourceMappingURL=style.css.map */
